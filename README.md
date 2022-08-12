@@ -11,7 +11,8 @@
 - Курсовой проект [VKApi + YaApi](https://github.com/radik121/kursovaya_2_vkinder)
 - [CI/CD](https://github.com/radik121/ci-cd), [Flask](https://github.com/radik121/flask), [async](https://github.com/radik121/async_hw), [aiohttp](https://github.com/radik121/aiohttp_hw), [celery](https://github.com/radik121/celery_hw), [Docker + docker-compose](https://github.com/radik121/homeworks-web/tree/master/docker-compose)
   
-**Диплом и Сертификаты:**
+**Свидетельства и Сертификаты:**
+- [Свидетельство об окончании курса](https://github.com/radik121/Netology-Documents/blob/master/certificate_all_python.pdf)
 - [Python основы](https://github.com/radik121/Netology-Documents/blob/master/Python.pdf), [Python Pro](https://github.com/radik121/Netology-Documents/blob/master/Python_pro.pdf)
 - [Django](https://github.com/radik121/Netology-Documents/blob/master/django.pdf)
 - [Git](https://github.com/radik121/Netology-Documents/blob/master/Git.pdf)
