@@ -18,3 +18,4 @@
 - [Git](https://github.com/radik121/Netology-Documents/blob/master/Git.pdf)
 - [Database](https://github.com/radik121/Netology-Documents/blob/master/Db.pdf)
 - [Python в web-разработке](https://github.com/radik121/Netology-Documents/blob/master/Web.pdf)
+- [Поколение Python](https://stepik.org/cert/1122850) на Stepik.org
