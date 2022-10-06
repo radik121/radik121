@@ -4,7 +4,6 @@
 **Что я умею:**
 - [Мой первый коммерческий проект на Python](https://github.com/radik121/my_project_1)
 - Python: [Дипломный проект](https://github.com/radik121/python-final-diplom)<p>
-Домашние работы по курсу:
 - [Django](https://github.com/radik121/django_hw)
 - [Регулярные выражения](https://github.com/radik121/Regular_expressions), [Web-scrapping](https://github.com/radik121/web_scrapping)
 - [SQL, postresql](https://github.com/radik121/database)
