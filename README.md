@@ -2,6 +2,7 @@
 ### Я Радик Масагутов, python разработчик.
 
 **Что я умею:**
+- [Участие в хакатоне от ВТБ](https://github.com/radik121/More-Tech-4-VTB_hackathon)
 - [Мой первый коммерческий проект на Python](https://github.com/radik121/my_project_1)
 
 *Учебные проекты*
