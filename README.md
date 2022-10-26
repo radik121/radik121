@@ -2,6 +2,7 @@
 #### Привет, меня зовут Радик. Я Python-разработчик из России.
 
 **Что я умею:**
+- [Telegram Bot с запросами к стороннему API](https://github.com/radik121/tg_bot_kopeechka)
 - [Участие в хакатоне от ВТБ](https://github.com/radik121/More-Tech-4-VTB_hackathon)
 - [Мой первый коммерческий проект на Python](https://github.com/radik121/my_project_1)
 
