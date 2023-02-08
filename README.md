@@ -1,7 +1,12 @@
 ## Радик Масагутов
 #### Привет, меня зовут Радик. Я Python-разработчик из России.
 
-**Что я умею:**
+**Стек**
+
+| Python | PostgreSQL | Django Rest Framework | FastAPI | SQLAlchemy | SQL | ООП | REST API | Docker - Docker-compose | Celery | Redis | Git |
+
+**Мои проекты**
+- [Проект Menu на FastAPI (async)](https://github.com/radik121/fastapi_menu)
 - [Telegram Bot с запросами к стороннему API](https://github.com/radik121/tg_bot_kopeechka)
 - [Участие в хакатоне от ВТБ](https://github.com/radik121/More-Tech-4-VTB_hackathon)
 - [Первый коммерческий проект на Python](https://github.com/radik121/my_project_1)
