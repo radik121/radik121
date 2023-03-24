@@ -3,7 +3,7 @@
 
 **Стек**
 
-| Python | PostgreSQL | Django Rest Framework | FastAPI | SQLAlchemy | SQL | ООП | REST API | Docker - Docker-compose | Celery | Redis | Git |
+| Python | PostgreSQL | Django - DRF | FastAPI | SQLAlchemy | SQL | ООП | REST API | Docker - Docker-compose | Celery | Redis | Git |
 
 **Мои проекты**
 - [Проект Menu на FastAPI (async)](https://github.com/radik121/fastapi_menu)
